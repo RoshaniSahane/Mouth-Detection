@@ -35,5 +35,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or feedback, feel free to contact the project maintainer:
-Your Name: Roshani Sahane
-Your Email: sahaneroshani25@gmail.com
+Email: sahaneroshani25@gmail.com
